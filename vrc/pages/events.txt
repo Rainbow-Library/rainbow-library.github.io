@@ -9,7 +9,7 @@
 Jasmine Pizza
 
 <color=#46A5F1><size=150%>Rainbow Reels (Movie Night)</size></color>
-Cmdr Modder 
+Cmdr Modder, Oraxia
 
 <color=#46A5F1><size=150%>Tunes 'n' Thursday</size></color>
 Jesski
@@ -21,7 +21,11 @@ Jellvi
 Lyxie
 
 <color=#46A5F1><size=150%>Seasonal Festival</size></color>
-Lyxie, Jesski and Modder
+Lyxie, Jesski and Cmdr Modder
+
+<color=#46A5F1><size=150%>Karaoke</size></color>
+Matty Matt
+
 {{END_COLUMN}}
 
 //--------------------------------------------------
