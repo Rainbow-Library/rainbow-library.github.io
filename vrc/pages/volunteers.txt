@@ -1,10 +1,3 @@
-{{START_CONFIG}}
-COLUMNS 4
-FOOTER FALSE
-{{END_CONFIG}}
-
-//--------------------------------------------------
-
 {{START_TITLE}}
 <color=#45A4F1>Our Volunteers</color>
 {{END_TITLE}}
