@@ -1,0 +1,19 @@
+{{START_TITLE}}
+<color=#45A4F1>Events & Hosts</color>
+{{END_TITLE}}
+
+//--------------------------------------------------
+
+{{START_COLUMN}}
+<color=#46A5F1><size=150%>Event 1</size></color>
+Host 1, Host 2
+
+<color=#46A5F1><size=150%>Event 2</size></color>
+Host 1, Host 2, Host 3
+
+<color=#46A5F1><size=150%>Event 3</size></color>
+Host 1
+
+<color=#46A5F1><size=150%>Event 4</size></color>
+Host 1, Host 2, Host 3, Host 4
+{{END_COLUMN}}
