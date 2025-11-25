@@ -1,5 +1,5 @@
 {{START_TITLE}}
-<color=#45A4F1>Event Calendar</color>
+<color=#ffffff>Event Calendar</color>
 {{END_TITLE}}
 
 //--------------------------------------------------
