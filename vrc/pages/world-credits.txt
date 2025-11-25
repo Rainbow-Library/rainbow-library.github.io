@@ -1,0 +1,63 @@
+{{START_TITLE}}
+<color=#31E531>World Credits</color>
+{{END_TITLE}}
+
+//--------------------------------------------------
+
+{{START_COLUMN}}
+<color=#31E531><size=150%>ArchiTech</size></color>
+ProTV
+
+<color=#31E531><size=150%>BitiTiger</size></color>
+scripting, lighting, optimization, presentation shaders
+
+<color=#31E531><size=150%>Braille Institute of America</size></color>
+Atkinson Hyperlegible® Font
+
+<color=#31E531><size=150%>Ďábel</size></color>
+most 3D models
+
+<color=#31E531><size=150%>Flusky and Foxeer</size></color>
+ASL presentations
+{{END_COLUMN}}
+
+//--------------------------------------------------
+
+{{START_COLUMN}}
+<color=#31E531><size=150%>MochiesCode</size></color>
+Mochies Unity Shaders
+
+
+<color=#31E531><size=150%>Phasedragon</size></color>
+presentation system, code lock system
+
+
+<color=#31E531><size=150%>Prismatic Snow</size></color>
+plurality presentations
+
+
+<color=#31E531><size=150%>Starlight6363</size></color>
+ProTV allowlist plugin
+
+<color=#31E531><size=150%>RED_SIM</size></color>
+Beautiful Sky Shaders
+{{END_COLUMN}}
+
+//--------------------------------------------------
+
+{{START_COLUMN}}
+<color=#31E531><size=150%>Voice Gang</size></color>
+voice training presentations
+
+
+<color=#31E531><size=150%>Voice Training Support Group</size></color>
+voice training presentations
+
+
+<color=#31E531><size=150%>Warren</size></color>
+Warren's Fast Fur Shader
+
+
+<color=#31E531><size=150%>z3y</size></color>
+Graphlit shaders
+{{END_COLUMN}}
