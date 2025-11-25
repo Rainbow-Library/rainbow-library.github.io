@@ -45,3 +45,16 @@ BitiTiger
 <color=#46A5F1><size=150%>Neurodivergent Network</size></color>
 Cmdr Modder
 {{END_COLUMN}}
+
+//--------------------------------------------------
+
+{{START_COLUMN}}
+<color=#46A5F1><size=150%>Practical Voice Training Workshop With Izzy</size></color>
+Izzy
+
+<color=#46A5F1><size=150%>Voice Training Workshop With Lyxie</size></color>
+Lyxie
+
+<color=#46A5F1><size=150%>Zarraz's Voice Training Workshop</size></color>
+Zarraz
+{{END_COLUMN}}
