@@ -19,6 +19,12 @@ most 3D models
 
 <color=#31E531><size=150%>Flusky and Foxeer</size></color>
 ASL presentations
+
+<color=#31E531><size=150%>Poly Haven</size></color>
+textures
+
+<color=#31E531><size=150%>TextureCan</size></color>
+textures
 {{END_COLUMN}}
 
 //--------------------------------------------------
@@ -57,7 +63,9 @@ voice training presentations
 <color=#31E531><size=150%>Warren</size></color>
 Warren's Fast Fur Shader
 
-
 <color=#31E531><size=150%>z3y</size></color>
 Graphlit shaders
+
+<color=#31E531><size=150%>ambientCG</size></color>
+textures
 {{END_COLUMN}}
