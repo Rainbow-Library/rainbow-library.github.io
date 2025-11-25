@@ -5,25 +5,27 @@
 //--------------------------------------------------
 
 {{START_COLUMN}}
+<size=125%>
 <b><color=#e81416>10.11.25</color></b>
-<sprite index=0> RAINBO.7059 Social hangout day.
+RAINBO.7059 Social hangout day.
 
 <b><color=#ffa500>11.11.25</color></b>
-<sprite index=0> RAINBO.7059 Queer Questioning                                  <b><t:1761688800:t></b> Room: RL Campfire
+RAINBO.7059 Queer Questioning                                  <b><t:1761688800:t></b> Room: RL Campfire
 
 <b><color=#faeb36>12.11.25</color></b>
-<sprite index=0> RAINBO.7059 Practical Voice Training w/Izzy                    <b><t:1759352400:t></b> Room: Lecture Hall
+RAINBO.7059 Practical Voice Training w/Izzy                    <b><t:1759352400:t></b> Room: Lecture Hall
 
 <b><color=#79c314>13.11.25</color></b>         
-<sprite index=0> RAINBO.7059  Movie Night - Captain America: The First Avenger  <b><t:1759435200:t></b> World: Popcorn Palace
+RAINBO.7059  Movie Night - Captain America: The First Avenger  <b><t:1759435200:t></b> World: Popcorn Palace
 
 <b><color=#487de7>14.11.25</color></b>
-<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie                 <b><t:1761942600:t></b> Room: Lecture Hall
+RAINBO.7059 Voice Training workshop with Lyxie                 <b><t:1761942600:t></b> Room: Lecture Hall
 
 <b><color=#4b369d>15.11.25</color></b> 
-<sprite index=0> RAINBO.7059 Gender Chaos Hour                                  <b><t:1763236800:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Transmasc & Chill                                  <b><t:1760817600:t></b> Various Worlds
+RAINBO.7059 Gender Chaos Hour                                  <b><t:1763236800:t></b> Various Worlds
+RAINBO.7059 Transmasc & Chill                                  <b><t:1760817600:t></b> Various Worlds
 
 <b><color=#70369d>16.11.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E31 Mister Chop                <b><t:1759672800:t></b> Room: Commons
+RAINBO.7059 Snacks 'n' Sunday - E31 Mister Chop                <b><t:1759672800:t></b> Room: Commons
+</size>
 {{END_COLUMN}}
