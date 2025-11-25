@@ -5,15 +5,43 @@
 //--------------------------------------------------
 
 {{START_COLUMN}}
-<color=#46A5F1><size=150%>Event 1</size></color>
-Host 1, Host 2
+<color=#46A5F1><size=150%>Queer Questioning</size></color>
+Jasmine Pizza
 
-<color=#46A5F1><size=150%>Event 2</size></color>
-Host 1, Host 2, Host 3
+<color=#46A5F1><size=150%>Rainbow Reels (Movie Night)</size></color>
+Cmdr Modder 
 
-<color=#46A5F1><size=150%>Event 3</size></color>
-Host 1
+<color=#46A5F1><size=150%>Tunes 'n' Thursday</size></color>
+Jesski
 
-<color=#46A5F1><size=150%>Event 4</size></color>
-Host 1, Host 2, Host 3, Host 4
+<color=#46A5F1><size=150%>Rainbow Roams</size></color>
+Jellvi 
+
+<color=#46A5F1><size=150%>Snacks 'n' Sunday</size></color>
+Lyxie
+
+<color=#46A5F1><size=150%>Seasonal Festival</size></color>
+Lyxie, Jesski and Modder
+{{END_COLUMN}}
+
+//--------------------------------------------------
+
+{{START_COLUMN}}
+<color=#46A5F1><size=150%>Femme Sublime Time</size></color>
+CarlyTheGoth, Jellvi
+
+<color=#46A5F1><size=150%>Transmasc & Chill</size></color>
+Eldritch
+
+<color=#46A5F1><size=150%>Gender Chaos Hour</size></color>
+BitiTiger
+
+<color=#46A5F1><size=150%>Headmate Hangout</size></color>
+Prismatic Snow 
+
+<color=#46A5F1><size=150%>Rainbow Howl</size></color>
+BitiTiger
+
+<color=#46A5F1><size=150%>Neurodivergent Network</size></color>
+Cmdr Modder
 {{END_COLUMN}}
