@@ -46,7 +46,6 @@ Katja
 Koishi / Tronny
 Lyxie
 Moosbo
-NMZS
 Nekolita
 Pyrus / Frieren
 Rose / DesignedDino
@@ -81,8 +80,9 @@ Crimson Candy (Sublead)
 Diffidence
 Eldritch Radio
 Grieva
-HeyImBlu 
+HeyImBlu
 Katja
+NebulousIdiot
 Pan
 Toasty
 {{END_COLUMN}}
@@ -100,10 +100,12 @@ MakerKath
 
 <color=#46A5F1><size=150%>World Creation</size></color>
 Ďábel (Lead)
-Biti
 DemonitizedBoi
 Elise
+Haxy
+Koishi / Tronny
 MaeDaGoof
+MarcellaVT
 
 <color=#46A5F1><size=150%>Education Team</size></color>
 Dogfish
