@@ -1,0 +1,370 @@
+{
+   "volunteers":[
+      {
+         "team":"Librarians",
+         "members":[
+            "Asheris",
+            "Starlight"
+         ]
+      },
+      {
+         "team":"Team Leads",
+         "members":[
+            "Asheris",
+            "Biti",
+            "Ďábel",
+            "Lyxie",
+            "Moosbo",
+            "Prismatic Snow",
+            "Starlight"
+         ]
+      },
+      {
+         "team":"Library Technician",
+         "members":[
+            "Moosbo (Lead)",
+            "Genny"
+         ]
+      },
+      {
+         "team":"Volunteer Support",
+         "members":[
+            "Starlight (Lead)",
+            "Azzy / Amy",
+            "Diffidence",
+            "Moosbo"
+         ]
+      },
+      {
+         "team":"Mediation",
+         "members":[
+            "Ďábel (Lead)",
+            "Prismatic Snow (Lead)",
+            "Matty Matt (Sublead)",
+            "Wild Wanderer (Sublead)",
+            "Amy Thunder",
+            "Améthyst",
+            "Cosmic Maestra",
+            "DagiWeh",
+            "Gwen the dwagon",
+            "Katja",
+            "Koishi / Tronny",
+            "Lyxie",
+            "Moosbo",
+            "Nekolita",
+            "Pyrus / Frieren",
+            "Rose / DesignedDino",
+            "Starlight",
+            "Wyl"
+         ]
+      },
+      {
+         "team":"Charity Consultant",
+         "members":[
+            "YukiDeer"
+         ]
+      },
+      {
+         "team":"Community Engagement",
+         "members":[
+            "Lyxie (Lead)",
+            "Aiya",
+            "Awoo",
+            "Cmdr Modder",
+            "Jasmine / Pizza",
+            "Jellvi",
+            "Jesski",
+            "Kozikoza",
+            "Netherlita",
+            "Rua",
+            "Theodora, Moth Perfected"
+         ]
+      },
+      {
+         "team":"Inclusivity Advocacy",
+         "members":[
+            "Biti (Lead)",
+            "Prismatic Snow (Lead)",
+            "Cosmic Maestra (Sublead)",
+            "Crimson Candy (Sublead)",
+            "Clavicus Vile",
+            "Diffidence",
+            "Eldritch Radio",
+            "Grieva",
+            "HeyImBlu",
+            "Katja",
+            "NebulousIdiot",
+            "Pan",
+            "Toasty"
+         ]
+      },
+      {
+         "team":"Media Production",
+         "members":[
+            "Asheris (Lead)",
+            "Anri",
+            "CarlyTheGoth",
+            "Ellie53",
+            "Jesski",
+            "MakerKath"
+         ]
+      },
+      {
+         "team":"World Creation",
+         "members":[
+            "Ďábel (Lead)",
+            "DemonitizedBoi",
+            "Elise",
+            "Haxy",
+            "Koishi / Tronny",
+            "MaeDaGoof",
+            "MarcellaVT",
+            ""
+         ]
+      },
+      {
+         "team":"Education Team",
+         "members":[
+            "Dogfish",
+            "Izzy",
+            "Lyxie"
+         ]
+      }
+   ],
+   "credits":[
+      {
+         "name":"ArchiTech",
+         "credits":"ProTV"
+      },
+      {
+         "name":"BitiTiger",
+         "credits":"Scripting, Lighting, Optimization, Presentation shaders"
+      },
+      {
+         "name":"Braille Institute of America",
+         "credits":"Atkinson Hyperlegible® Font"
+      },
+      {
+         "name":"Ďábel",
+         "credits":"Most 3D models"
+      },
+      {
+         "name":"Flusky and Foxeer",
+         "credits":"ASL presentations"
+      },
+      {
+         "name":"Poly Haven",
+         "credits":"Textures"
+      },
+      {
+         "name":"TextureCan",
+         "credits":"Textures"
+      },
+      {
+         "name":"MochiesCode",
+         "credits":"Mochies Unity Shaders"
+      },
+      {
+         "name":"Phasedragon",
+         "credits":"Presentation system, Code lock system"
+      },
+      {
+         "name":"Prismatic Snow",
+         "credits":"Plurality presentations"
+      },
+      {
+         "name":"Starlight6363",
+         "credits":"ProTV Allowlist plugin"
+      },
+      {
+         "name":"RED_SIM",
+         "credits":"Beautiful Sky Shaders"
+      },
+      {
+         "name":"Voice Gang",
+         "credits":"Voice training presentations"
+      },
+      {
+         "name":"Voice Training Support Group",
+         "credits":"Voice training presentations"
+      },
+      {
+         "name":"Warren",
+         "credits":"Warren's Fast Fur Shader"
+      },
+      {
+         "name":"z3y",
+         "credits":"Graphlit shaders, UI+"
+      },
+      {
+         "name":"ambientCG",
+         "credits":"Textures"
+      }
+   ],
+   "rules":[
+      {
+         "rule":"Respect Everyone",
+         "description":"Be kind; no harassment, discrimination, or hate speech"
+      },
+      {
+         "rule":"Keep It PG-13",
+         "description":"No explicit content, suggestive behavior, or inappropriate avatars"
+      },
+      {
+         "rule":"Use Appropriate Avatars",
+         "description":"No explicit avatars. No violence. No global screen effect shaders"
+      },
+      {
+         "rule":"Respect Boundaries",
+         "description":"Personal space and consent matter in all interactions"
+      },
+      {
+         "rule":"Follow VRChat Guidelines",
+         "description":"Obey all platform rules and terms"
+      },
+      {
+         "rule":"Protect the Virtual Space",
+         "description":"No griefing, spamming, exploiting, or disrupting the environment"
+      },
+      {
+         "rule":"Engage Positively",
+         "description":"Be inclusive, supportive, and share the space respectfully"
+      },
+      {
+         "rule":"Prioritize Safety",
+         "description":"Be mindful of your own security and well-being and that of others"
+      },
+      {
+         "rule":"No Recording Without Consent",
+         "description":"Do not record or stream others without permission"
+      },
+      {
+         "rule":"Ask for Help",
+         "description":"Report rule violations to mediators"
+      }
+   ],
+   "hosts":[
+      {
+         "event":"Queer Questioning",
+         "members":[
+            "Jasmine Pizza"
+         ]
+      },
+      {
+         "event":"Rainbow Reels (Movie Night)",
+         "members":[
+            "Cmdr Modder",
+            "Oraxia"
+         ]
+      },
+      {
+         "event":"Tunes 'n' Thursday",
+         "members":[
+            "Jesski"
+         ]
+      },
+      {
+         "event":"Rainbow Roams",
+         "members":[
+            "Jellvi"
+         ]
+      },
+      {
+         "event":"Snacks 'n' Sunday",
+         "members":[
+            "Lyxie"
+         ]
+      },
+      {
+         "event":"Seasonal Festival",
+         "members":[
+            "Lyxie",
+            "Jesski",
+            "Cmdr Modder"
+         ]
+      },
+      {
+         "event":"Karaoke",
+         "members":[
+            "Matty Matt"
+         ]
+      },
+      {
+         "event":"Femme Sublime Time",
+         "members":[
+            "CarlyTheGoth",
+            "Jellvi"
+         ]
+      },
+      {
+         "event":"Transmasc & Chill",
+         "members":[
+            "Eldritch"
+         ]
+      },
+      {
+         "event":"Gender Chaos Hour",
+         "members":[
+            "BitiTiger"
+         ]
+      },
+      {
+         "event":"Headmate Hangout",
+         "members":[
+            "Prismatic Snow "
+         ]
+      },
+      {
+         "event":"Rainbow Howl",
+         "members":[
+            "BitiTiger"
+         ]
+      },
+      {
+         "event":"Neurodivergent Network",
+         "members":[
+            "Cmdr Modder"
+         ]
+      },
+      {
+         "event":"Practical Voice Training Workshop With Izzy",
+         "members":[
+            "Izzy"
+         ]
+      },
+      {
+         "event":"Voice Training Workshop With Lyxie",
+         "members":[
+            "Lyxie"
+         ]
+      },
+      {
+         "event":"Zarraz's Voice Training Workshop",
+         "members":[
+            "Zarraz"
+         ]
+      }
+   ],
+   "events":[
+      {
+         "name":"Social hangout day.",
+         "timestamp":1760180400,
+         "description":"Come yell at asheris!"
+      },
+      {
+         "name":"Social hangout day.",
+         "timestamp":1762862400,
+         "description":"Come yell at asheris!"
+      },
+      {
+         "name":"Social hangout day.",
+         "timestamp":1765454400,
+         "description":"Come yell at asheris!"
+      },
+      {
+         "name":"Social hangout day.",
+         "timestamp":1763035200,
+         "description":"Come yell at asheris!"
+      }
+   ]
+}
