@@ -38,7 +38,6 @@
       {
          "team":"Mediation",
          "members":[
-            "Ďábel (Lead)",
             "Prismatic Snow (Lead)",
             "Matty Matt (Sublead)",
             "Wild Wanderer (Sublead)",
@@ -52,7 +51,7 @@
             "Lyxie",
             "Moosbo",
             "Nekolita",
-            "Pyrus / Frieren",
+            "PyrusRainbowCat",
             "Rose / DesignedDino",
             "Starlight",
             "Wyl"
@@ -66,19 +65,22 @@
       },
       {
          "team":"Community Engagement",
-         "members":[
-            "Lyxie (Lead)",
-            "Aiya",
-            "Awoo",
-            "Cmdr Modder",
-            "Jasmine / Pizza",
-            "Jellvi",
-            "Jesski",
-            "Kozikoza",
-            "Netherlita",
-            "Rua",
-            "Theodora, Moth Perfected"
-         ]
+        "members": [
+           "Lyxie (Lead)",
+           "Cmdr Modder (Sublead)",
+           "Aiya",
+           "Awoo",
+           "Cat The Knight",
+           "Jasmine / Pizza",
+           "Jellvi",
+           "Jesski",
+           "Kozikoza",
+           "Nekolita",
+           "Oraxia",
+           "Pretzel Otters",
+           "Rua",
+           "Toasty"
+        ]
       },
       {
          "team":"Inclusivity Advocacy",
@@ -94,8 +96,7 @@
             "HeyImBlu",
             "Katja",
             "NebulousIdiot",
-            "Pan",
-            "Toasty"
+            "Pan"
          ]
       },
       {
@@ -322,9 +323,10 @@
       },
       {
          "event":"Neurodivergent Network",
-         "members":[
-            "Cmdr Modder"
-         ]
+        "members": [
+           "Cmdr Modder",
+           "Eldritch"
+        ]
       },
       {
          "event":"Practical Voice Training Workshop With Izzy",
