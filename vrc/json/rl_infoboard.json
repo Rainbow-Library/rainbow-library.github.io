@@ -9,13 +9,14 @@
       },
       {
          "team":"Team Leads",
-         "members":[
-            "Asheris",
-            "Biti",
-            "Lyxie",
-            "Moosbo",
-            "Prismatic Snow",
-            "Starlight"
+         "members": [
+           "Asheris",
+           "Biti",
+           "Lyxie",
+           "Moosbo",
+           "ReinaVulpecula",
+           "Prismatic Snow",
+           "Starlight"
          ]
       },
       {
@@ -35,26 +36,33 @@
          ]
       },
       {
-         "team":"Mediation",
-         "members":[
-            "Prismatic Snow (Lead)",
-            "Matty Matt (Sublead)",
-            "Wild Wanderer (Sublead)",
-            "Amy Thunder",
-            "Améthyst",
-            "Cosmic Maestra",
-            "DagiWeh",
-            "Gwen the dwagon",
-            "Katja",
-            "Koishi / Tronny",
-            "Lyxie",
-            "Moosbo",
-            "Nekolita",
-            "PyrusRainbowCat",
-            "Rose / DesignedDino",
-            "Scyllian_",
-            "Starlight",
-            "Wyl"
+        "team": "Mediation",
+        "members": [
+          "Prismatic Snow (Lead)",
+          "Matty Matt (Sublead)",
+          "Wild Wanderer (Sublead)",
+          "Amy Thunder",
+          "Améthyst",
+          "Cosmic Maestra",
+          "DagiWeh",
+          "Gwen the dwagon",
+          "Katja",
+          "Koishi / Tronny",
+          "Lyxie",
+          "Moosbo",
+          "Nekolita",
+          "PyrusRainbowCat",
+          "Rose / DesignedDino",
+          "Scyllian_",
+          "Starlight",
+          "Wyl"
+        ]
+      },
+      {
+         "team": "Internal Mediation",
+         "members": [
+            "ReinaVulpecula (Lead)",
+            "Wyl (Sublead)"
          ]
       },
       {
@@ -79,6 +87,7 @@
            "Oraxia",
            "Pretzel Otters",
            "Rua",
+           "TimberTheCat",
            "Toasty",
            "¿『F』?",
            "˗ˏˋ ᴛᴇᴄʜɪᴇˎˊ˗"
@@ -90,8 +99,8 @@
             "Biti (Lead)",
             "Prismatic Snow (Lead)",
             "Cosmic Maestra (Sublead)",
-            "Crimson Candy (Sublead)",
             "Clavicus Vile",
+            "Crimson Candy",
             "Diffidence",
             "Eldritch Radio",
             "Grieva",
@@ -114,13 +123,13 @@
       },
       {
          "team":"World Creation",
-         "members":[
-            "DemonitizedBoi",
-            "Haxy",
-            "Koishi / Tronny",
-            "MaeDaGoof",
-            "MarcellaVT",
-            ""
+         "members": [
+           "DemonitizedBoi (Sublead)",
+           "Haxy (Sublead)",
+           "MarcellaVT (Sublead)",
+           "Koishi / Tronny",
+           "MaeDaGoof",
+           ""
          ]
       },
       {
