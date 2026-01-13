@@ -91,6 +91,14 @@
         ]
       },
       {
+         "team":"Education Team",
+         "members":[
+            "Dogfish",
+            "Izzy",
+            "Lyxie"
+         ]
+      },
+      {
          "team":"Inclusivity Advocacy",
          "members":[
             "Biti (Lead)",
@@ -127,14 +135,6 @@
            "Koishi / Tronny",
            "MaeDaGoof",
            ""
-         ]
-      },
-      {
-         "team":"Education Team",
-         "members":[
-            "Dogfish",
-            "Izzy",
-            "Lyxie"
          ]
       }
    ],
