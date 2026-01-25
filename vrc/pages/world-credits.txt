@@ -8,9 +8,6 @@
 <color=#31E531><size=150%>ArchiTech</size></color>
 ProTV
 
-<color=#31E531><size=150%>BitiTiger</size></color>
-scripting, lighting, optimization, presentation shaders
-
 <color=#31E531><size=150%>Braille Institute of America</size></color>
 Atkinson Hyperlegible® Font
 
